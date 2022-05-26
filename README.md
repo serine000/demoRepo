@@ -4,4 +4,4 @@ Sample text !!
 
 ## Subheader
 
-more testing
+Well actually this is just me discovering git. Thx !
